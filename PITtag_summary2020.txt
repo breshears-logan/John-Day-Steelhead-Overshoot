@@ -1,0 +1,33 @@
+# John Day Steelhead Overshoot
+## Bonneville AFF PIT tagging summary
+### Summer 2020
+
+---
+
+_**Research Brief**_
+
+<p>A collaborative research effort with the Oregon Department of Fish and Wildlife (ODFW) and Oregon<br> State University (OSU), aiming to better understand individual adult migrations of John Day River<br> origin summer steelhead in the Columbia River between Bonneville and McNary Dams. The main<br> emphasis for this research targets the overshoot and fallback phenomenon, where the majority of John<br> Day origin steelhead overshoot the mouth of the John Day River during their upstream migration, and<br> continue upstream ascending McNary Dam before falling back and returning to the John Day River<br> later in the year.  </p>
+
+_**Methods**_
+
+Adult steelhead were sampled inside the adult fish facility at Bonneville Dam during the 2020 summer<br> field season in accordance to [Appendix G](http://pweb.crohms.org/tmt/documents/fpp/2017/final/FPP17_AppG.pdf) of the 2017 Fish Passage Plan. 
+200 adult steelhead were<br> inserted with PIT tags between July 13th - September 18th
+
+[![Oregon State University](C:/Users/bresheal/Desktop/osu-drupal_480.png)](https://www.drupal.org/files/osu-drupal_480.png)
+
+[![Oregon Department of Fish and Wildlife](C:/Users/bresheal/Desktop/ODFW.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thenewsguard.com%2Fnews%2Fodfw-commission-adopts-big-game-regulations%2Farticle_954d6ac6-d8b9-11e9-82f0-2f6f724c9227.html&psig=AOvVaw1kua8S3711OjBIdNQAFtSQ&ust=1603909956498000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCZjLC01ewCFQAAAAAdAAAAABAJ)
+
+---
+
+_**Funding**_
+
+The project is primarily funded by: 
+
+Oregon Watershed Enhancement Board (OWEB) [click here for a web page](https://www.oregon.gov/oweb/Pages/index.aspx) 
+
+[OWEB Grant Proposal](https://github.com/breshears-logan/John-Day-Steelhead-Overshoot/blob/main/Adult_Steelhead_Migratory_Routes_Investigation-Submitted.pdf)
+
+
+Oregon Department of Fish and Wildlife [click here for a web page](https://www.dfw.state.or.us/)
+
+Trout Unlimited. [click here for a web page](https://www.tu.org/trout-unlimited-3/)
